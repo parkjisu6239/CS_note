@@ -11,7 +11,7 @@ CS 공부, 면접 준비
 | TCP vs UDP                  |      |
 | OSI 7 layer                 |      |
 | SPA                         |      |
-| request meyhod, GET vs POST |      |
+| request method, GET vs POST |      |
 | TCP/IP 통신 과정            |      |
 | Proxy, Load balancing       |      |
 
