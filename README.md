@@ -21,7 +21,7 @@ CS 공부, 면접 준비
 
 ## 자료 구조
 
-![img](README.assets/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fdbcab1ce-f651-4694-be03-84349990dc3c%2FUntitled.png)
+![img](README.assets/image1.png)
 
 | 제목                      | Done |
 | ------------------------- | ---- |
@@ -105,3 +105,6 @@ CS 공부, 면접 준비
 | 디자인 패턴, 사용 이유                    |      |
 | Rest API vs Socket 통신                   |      |
 | WebRTC, stun/turn                         |      |
+| Webpack, 빌드                             |      |
+| Redux, store                              |      |
+| SSR vs CSR                                |      |
