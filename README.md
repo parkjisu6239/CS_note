@@ -9,11 +9,13 @@ CS 공부, 면접 준비
 | --------------------------- | ---- |
 | HTTP vs HTTPS               |      |
 | TCP vs UDP                  |      |
+| TCP handshake               |      |
 | OSI 7 layer                 |      |
 | SPA                         |      |
 | request method, GET vs POST |      |
 | TCP/IP 통신 과정            |      |
 | Proxy, Load balancing       |      |
+| 대칭키 vs 공개키            |      |
 
 
 
@@ -51,6 +53,7 @@ CS 공부, 면접 준비
 - Linear search
 - **Binary search** ⭐
 - **Binary search tree **⭐
+- LIS
 
 
 
@@ -74,6 +77,8 @@ CS 공부, 면접 준비
   - Bellan-Ford
   - Floyf-Warshall
 
+- LCA
+
 
 
 ### Etc
@@ -91,7 +96,7 @@ CS 공부, 면접 준비
 
 
 
-## 프론트엔드
+## Front-end, Web
 
 | 제목                                      | Done |
 | ----------------------------------------- | ---- |
@@ -108,3 +113,7 @@ CS 공부, 면접 준비
 | Webpack, 빌드                             |      |
 | Redux, store                              |      |
 | SSR vs CSR                                |      |
+|                                           |      |
+
+
+
