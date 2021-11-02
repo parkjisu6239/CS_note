@@ -3,39 +3,43 @@ CS 공부, 면접 준비
 
 
 
-## 네트워크
+## Network
 
-| 제목                        | Done |
-| --------------------------- | ---- |
-| HTTP vs HTTPS               |      |
-| TCP vs UDP                  |      |
-| TCP handshake               |      |
-| OSI 7 layer                 |      |
-| SPA                         |      |
-| request method, GET vs POST |      |
-| TCP/IP 통신 과정            |      |
-| Proxy, Load balancing       |      |
-| 대칭키 vs 공개키            |      |
-
-
+| 제목                                   | Done |
+| -------------------------------------- | ---- |
+| [HTTP vs HTTPS](Network/HTTP vs HTTPS) | ✅    |
+| [TCP vs UDP](Network/TCP vs UDP)       |      |
+| TCP handshake                          |      |
+| OSI 7 layer                            |      |
+| SPA                                    |      |
+| request method, GET vs POST            |      |
+| TCP/IP 통신 과정                       |      |
+| Proxy, Load balancing                  |      |
+| 대칭키 vs 공개키                       |      |
 
 
 
-## 자료 구조
+
+
+## Data Structure
 
 ![img](README.assets/image1.png)
 
-| 제목                      | Done |
-| ------------------------- | ---- |
-| 스택 vs 큐 vs 덱          |      |
-| 그래프 vs 트리            |      |
-| 순차리스트 vs 연결 리스트 |      |
+| 제목                        | Done |
+| --------------------------- | ---- |
+| Array vs List vs LinkedList |      |
+| 스택 vs 큐 vs 덱            |      |
+| 힙, 이진 탐색 트리          |      |
+| 그래프 vs 트리              |      |
+| 해쉬                        |      |
+| 트라이(trie)                |      |
+| B-tree & B + Tree           |      |
 
 
 
 
 
-## 알고리즘
+## Algorithm
 
 ### Sort
 
@@ -96,7 +100,7 @@ CS 공부, 면접 준비
 
 
 
-## Front-end, Web
+## Web
 
 | 제목                                      | Done |
 | ----------------------------------------- | ---- |
