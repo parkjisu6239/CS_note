@@ -21,8 +21,8 @@ CS 공부, 면접 준비
 | 제목                                   | Done |
 | -------------------------------------- | ---- |
 | [HTTP vs HTTPS](Network/HTTP vs HTTPS) | ✅    |
-| [TCP vs UDP](Network/TCP vs UDP)       |      |
-| TCP handshake                          |      |
+| [TCP vs UDP](Network/TCP vs UDP)       | ✅    |
+| [TCP handshake](Network/TCP handshake) | ✅    |
 | OSI 7 layer                            |      |
 | SPA                                    |      |
 | request method, GET vs POST            |      |
