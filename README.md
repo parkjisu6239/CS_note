@@ -5,12 +5,12 @@ CS 공부, 면접 준비
 
 ## Common
 
-- [좋은 코드란 무엇인가?](Common/좋은 코드란 무엇인가)
-- [객체지향 프로그래밍](Common/객체지향 프로그래밍)
+- [좋은 코드란 무엇인가?](Common/좋은%20코드란%20무엇인가)
+- [객체지향 프로그래밍](Common/객체지향%20프로그래밍)
 
-- [Object Oriented Programming](Common/Object Oriented Programming)
+- [Object Oriented Programming](Common/Object%20Oriented%20Programming)
 
-- [Restful API](Common/Restful API)
+- [Restful API](Common/Restful%20API)
 
 - [MVC패턴](Common/MVC패턴)
 
@@ -20,9 +20,9 @@ CS 공부, 면접 준비
 
 | 제목                                   | Done |
 | -------------------------------------- | ---- |
-| [HTTP vs HTTPS](Network/HTTP vs HTTPS) | ✅    |
-| [TCP vs UDP](Network/TCP vs UDP)       | ✅    |
-| [TCP handshake](Network/TCP handshake) | ✅    |
+| [HTTP vs HTTPS](Network/HTTP%20vs%20HTTPS) | ✅    |
+| [TCP vs UDP](Network/TCP%20vs%20UDP)       | ✅    |
+| [TCP handshake](Network/TCP%20handshake) | ✅    |
 | OSI 7 layer                            |      |
 | SPA                                    |      |
 | request method, GET vs POST            |      |
