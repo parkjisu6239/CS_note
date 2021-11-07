@@ -25,10 +25,10 @@ CS 공부, 면접 준비
 | [TCP handshake](Network/TCP%20handshake) | ✅    |
 | OSI 7 layer                            |      |
 | SPA                                    |      |
-| request method, GET vs POST            |      |
-| TCP/IP 통신 과정                       |      |
+| request method, GET vs POST            |  ✅    |
+| TCP/IP 통신 과정                       |   ✅   |
 | Proxy, Load balancing                  |      |
-| 대칭키 vs 공개키                       |      |
+| 대칭키 vs 공개키                       |   ✅   |
 
 
 
