@@ -23,12 +23,13 @@ CS 공부, 면접 준비
 | [HTTP vs HTTPS](Network/HTTP%20vs%20HTTPS) | ✅    |
 | [TCP vs UDP](Network/TCP%20vs%20UDP)       | ✅    |
 | [TCP handshake](Network/TCP%20handshake) | ✅    |
-| OSI 7 layer                            |      |
+| [OSI 7 layer](Network/OSI7layer)     | ✅ |
 | SPA                                    |      |
 | request method, GET vs POST            |  ✅    |
-| TCP/IP 통신 과정                       |   ✅   |
-| Proxy, Load balancing                  |      |
-| 대칭키 vs 공개키                       |   ✅   |
+| [TCP/IP 통신 과정](Network/TCPIPFlow) |   ✅   |
+| [Load balancing](Network/Load balancing) | ✅ |
+| Proxy | |
+| [대칭키 vs 공개키](Network/대칭키vs공개키) |   ✅   |
 
 
 
