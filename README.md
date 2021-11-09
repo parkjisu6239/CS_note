@@ -1,6 +1,11 @@
 # CS_note
 CS 공부, 면접 준비
 
+참고 자료
+
+- https://github.com/gyoogle/tech-interview-for-developer
+- https://github.com/JaeYeopHan/Interview_Question_for_Beginner/
+
 
 
 ## Common
@@ -30,6 +35,34 @@ CS 공부, 면접 준비
 | [Load balancing](Network/Load balancing) | ✅ |
 | Proxy | |
 | [대칭키 vs 공개키](Network/대칭키vs공개키) |   ✅   |
+
+
+
+## OS
+
+- [운영체제란](OS/운영체제란)
+
+- [프로세스의 주소 공간](OS/프로세스의주소공간)
+
+- [인터럽트](OS/인터럽트)
+
+- [프로세스와 스레드](OS/프로세스와스레드)
+
+- [멀티스레드](OS/멀티스레드)
+
+- [스케쥴러](OS/스케쥴러)
+
+- [CPU스케쥴러](OS/CPU스케쥴러)
+
+- [프로세스 동기화](OS/프로세스동기화)
+
+- [메모리 관리](OS/메모리관리)
+
+- [가상 메모리](OS/가상메모리)
+
+- [캐시의 지역성](OS/캐시의지역성)
+
+  
 
 
 
