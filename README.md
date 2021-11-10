@@ -66,6 +66,20 @@ CS 공부, 면접 준비
 
 
 
+## DB
+
+- [DB](DB/DB)
+
+- [Key](DB/Key)
+- [Join](DB/Join)
+- [Injection](DB/Injection)
+- [Index](DB/Index)
+- [Nomalization](DB/Nomalization)
+- [Transaction](DB/Transaction)
+- [Transaction Isolate level](DB/TransactionIsolatelevel)
+- [Statment vs Prepared Statement](DB/Statment vs Prepared Statement)
+- [NoSQL](DB/NoSQL)
+
 
 
 ## Data Structure
