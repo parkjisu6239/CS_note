@@ -82,6 +82,29 @@ CS 공부, 면접 준비
 
 
 
+
+
+## Language
+
+### Python
+
+- [특징,장점,단점](Language/Python/특징,장점,단점)
+- [Decorator](Language/Python/Decorator)
+- [Generator](Language/Python/Generator)
+- [Class](Language/Python/Class)
+- [GIL](Language/Python/GIL)
+- [CG](Language/Python/GC)
+- [PyPy vs CPython](Language/Python/PyPyvsCPython)
+- [Memory managing](Language/Python/Memorymanaging)
+- [Duck typing](Language/Python/Ducktyping)
+- [Tim sort](Language/Python/Timsort)
+
+
+
+
+
+
+
 ## Data Structure
 
 ![img](README.assets/image1.png)
