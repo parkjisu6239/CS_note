@@ -77,7 +77,7 @@ CS 공부, 면접 준비
 - [Nomalization](DB/Nomalization)
 - [Transaction](DB/Transaction)
 - [Transaction Isolate level](DB/TransactionIsolatelevel)
-- [Statment vs Prepared Statement](DB/Statment vs Prepared Statement)
+- [Statment vs Prepared Statement](DB/StatmentvsPreparedStatement)
 - [NoSQL](DB/NoSQL)
 
 
