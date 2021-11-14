@@ -25,16 +25,16 @@ CS 공부, 면접 준비
 
 | 제목                                   | Done |
 | -------------------------------------- | ---- |
-| [HTTP vs HTTPS](Network/HTTP%20vs%20HTTPS) | ✅    |
-| [TCP vs UDP](Network/TCP%20vs%20UDP)       | ✅    |
-| [TCP handshake](Network/TCP%20handshake) | ✅    |
-| [OSI 7 layer](Network/OSI7layer)     | ✅ |
+| [HTTP vs HTTPS](Network/HTTP%20vs%20HTTPS.md) | ✅    |
+| [TCP vs UDP](Network/TCP%20vs%20UDP.md)       | ✅    |
+| [TCP handshake](Network/TCP%20handshake.md) | ✅    |
+| [OSI 7 layer](Network/OSI7layer.md)     | ✅ |
 | SPA                                    |      |
 | request method, GET vs POST            |  ✅    |
-| [TCP/IP 통신 과정](Network/TCPIPFlow) |   ✅   |
-| [Load balancing](Network/Loadbalancing) | ✅ |
+| [TCP/IP 통신 과정](Network/TCPIPFlow.md) |   ✅   |
+| [Load balancing](Network/Loadbalancing.md) | ✅ |
 | Proxy | |
-| [대칭키 vs 공개키](Network/대칭키vs공개키) |   ✅   |
+| [대칭키 vs 공개키](Network/대칭키vs공개키.md) |   ✅   |
 
 
 
@@ -70,15 +70,15 @@ CS 공부, 면접 준비
 
 - [DB](DB/DB)
 
-- [Key](DB/Key)
-- [Join](DB/Join)
-- [Injection](DB/Injection)
-- [Index](DB/Index)
-- [Nomalization](DB/Nomalization)
-- [Transaction](DB/Transaction)
-- [Transaction Isolate level](DB/TransactionIsolatelevel)
-- [Statment vs Prepared Statement](DB/StatmentvsPreparedStatement)
-- [NoSQL](DB/NoSQL)
+- [Key](DB/Key.md)
+- [Join](DB/Join.md)
+- [Injection](DB/Injection.md)
+- [Index](DB/Index.md)
+- [Nomalization](DB/Nomalization.md)
+- [Transaction](DB/Transaction.md)
+- [Transaction Isolate level](DB/TransactionIsolatelevel.md)
+- [Statment vs Prepared Statement](DB/StatmentvsPreparedStatement.md)
+- [NoSQL](DB/NoSQL.md)
 
 
 
@@ -88,27 +88,27 @@ CS 공부, 면접 준비
 
 ### Python
 
-- [특징,장점,단점](Language/Python/특징,장점,단점)
-- [Decorator](Language/Python/Decorator)
-- [Generator](Language/Python/Generator)
-- [Class](Language/Python/Class)
-- [GIL](Language/Python/GIL)
-- [CG](Language/Python/GC)
-- [PyPy vs CPython](Language/Python/PyPyvsCPython)
-- [Memory managing](Language/Python/Memorymanaging)
-- [Duck typing](Language/Python/Ducktyping)
-- [Tim sort](Language/Python/Timsort)
+- [특징,장점,단점](Language/Python/특징,장점,단점.md)
+- [Decorator](Language/Python/Decorator.md)
+- [Generator](Language/Python/Generator.md)
+- [Class](Language/Python/Class.md)
+- [GIL](Language/Python/GIL.md)
+- [CG](Language/Python/GC.md)
+- [PyPy vs CPython](Language/Python/PyPyvsCPython.md)
+- [Memory managing](Language/Python/Memorymanaging.md)
+- [Duck typing](Language/Python/Ducktyping.md)
+- [Tim sort](Language/Python/Timsort.md)
 
 
 
 ### Java Script
 
-- [Event Loop](Language/JS/EventLoop)
-- [Hoisting](Language/JS/Hoisting)
-- [Closure](Language/JS/Closure)
-- [this](Language/JS/this)
-- [Promise](Language/JS/Promise)
-- [Arrow function](Language/JS/ArrowFunction)
+- [Event Loop](Language/JS/EventLoop.md)
+- [Hoisting](Language/JS/Hoisting.md)
+- [Closure](Language/JS/Closure.md)
+- [this](Language/JS/this.md)
+- [Promise](Language/JS/Promise.md)
+- [Arrow function](Language/JS/ArrowFunction.md)
 
 
 
