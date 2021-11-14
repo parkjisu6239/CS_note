@@ -32,7 +32,7 @@ CS 공부, 면접 준비
 | SPA                                    |      |
 | request method, GET vs POST            |  ✅    |
 | [TCP/IP 통신 과정](Network/TCPIPFlow) |   ✅   |
-| [Load balancing](Network/Load balancing) | ✅ |
+| [Load balancing](Network/Loadbalancing) | ✅ |
 | Proxy | |
 | [대칭키 vs 공개키](Network/대칭키vs공개키) |   ✅   |
 
