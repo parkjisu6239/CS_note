@@ -65,6 +65,8 @@ CS 공부, 면접 준비
 
   
 ## Computer Structure
+- 부동 소수표현
+- 이진 변환
 
 
 
