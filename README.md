@@ -65,15 +65,19 @@ CS 공부, 면접 준비
 
   
 ## Computer Structure
-- 부동 소수표현
-- 이진 변환
+- 고정소수점 & 부동소수점
+- 컴퓨터 구조 기초
+- 컴퓨터의 구성
+- 중앙처리장치(CPU) 작동 원리
+- 캐시메모리
+- 패리티비트 & 해밍코드
+- ARM 프로세서
 
 
 
 ## DB
 
 - [DB](DB/DB)
-
 - [Key](DB/Key.md)
 - [Join](DB/Join.md)
 - [Injection](DB/Injection.md)
@@ -185,7 +189,6 @@ CS 공부, 면접 준비
 - Permutation
 - Power set
 - Combination
-
 - Sieve of Eratosthenes
 - Euclidean algorithm
 
@@ -215,4 +218,9 @@ CS 공부, 면접 준비
 |                                           |      |
 
 
+## Project
 
+- Docker & Kubernetes
+- CI/CD Jenkins
+- AWS & S3
+- proxy, loadbalancer
