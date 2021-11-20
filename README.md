@@ -11,12 +11,10 @@ CS 공부, 면접 준비
 ## Common
 
 - [좋은 코드란 무엇인가?](Common/좋은%20코드란%20무엇인가)
+- 좋은 개발자란?
 - [객체지향 프로그래밍](Common/객체지향%20프로그래밍)
-
 - [Object Oriented Programming](Common/Object%20Oriented%20Programming)
-
 - [Restful API](Common/Restful%20API)
-
 - [MVC패턴](Common/MVC패턴)
 
 
